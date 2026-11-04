@@ -1,0 +1,6 @@
+{
+  "name": "Regalia",
+  "description": "Android Metadata Manager for inspecting, repairing, and organizing file metadata and filesystem timestamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
